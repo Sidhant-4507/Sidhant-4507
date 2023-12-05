@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foodie's Delight</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+            <img src="D:\OneDrive\Pictures\360_F_241307210_MjjaJC3SJy2zJZ6B7bKGMRsKQbdwRSze.webp" alt="Restaurant Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Menu</a></li>
+                <li><a href="#">Order Now</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="hero-image">
+                <img src="D:\OneDrive\Pictures\360_F_64614207_JMI35NRaXaFzgwDlZ44TpE0Kh1SEI0DS.webp" alt="Hero Image">
+            </div>
+            <div class="hero-text">
+                <h1>Foodie's Delight</h1>
+                <p>Experience the culinary artistry of our chefs and indulge in a world of flavors.</p>
+                <a href="#" class="btn">Order Now</a>
+            </div>
+        </section>
+
+        <section class="quotes">
+            <h2>What Our Customers Say</h2>
+            <div class="quote">
+                <img src="D:\OneDrive\Pictures\WhatsApp Image 2023-11-29 at 18.48.21_f3940de6.jpg" alt="Customer 1 Image">
+                <p>"The food was absolutely delicious! I especially loved the pasta dishes."</p>
+                <span>- ABHISHEK.</span>
+            </div>
+            <div class="quote">
+                <img src="D:\OneDrive\Pictures\WhatsApp Image 2023-11-29 at 18.48.36_cfd3f156.jpg" alt="Customer 2 Image">
+                <p>"I'm so impressed by the quality and freshness of the ingredients. You can taste the difference."</p>
+                <span>- GAURAV.</span>
+            </div>
+            <div class="quote">
+                <img src="D:\OneDrive\Pictures\WhatsApp Image 2023-11-29 at 18.50.52_7de46466.jpg" alt="Customer 3 Image">
+                <p>"The service was fantastic! The staff was friendly and attentive, and they made sure we had everything we needed."</p>
+                <span>- LAKSHAY.</span>
+            </div>
+        </section>
+
+        <section class="menu">
+            <h2>Our Menu</h2>
+            <div class="menu-categories">
+                <ul>
+                    <li><a href="#">Appetizers</a></li>
+                    <li><a href="#">Salads</a></li>
+                    <li><a href="#">Main Courses</a></li>
+                    <li><a href="#">Desserts</a></li>
+                </ul>
+            </div>
+
+            <div class="menu-items">
+                <div class="menu-item">
+                    <img src="D:\OneDrive\Pictures\360_F_57849082_TZa7q8lIRKXCgJqsiu4p09pmN8FkP2Ii.webp" alt="Dish 1 Image">
+                    <h3>Dish 1</h3>
+                    <p>Description of Dish 1</p>
+                    <span>Price: $15.99</span>
+                </div>
+                <div class="menu-item">
+                    <img src="D:\OneDrive\Pictures\burger.webp" alt="Dish 2 Image">
+                    <h3>Dish 2</h3>
+                    <p>Description of Dish 2</p>
+                    <span>Price: $18.99</span>
+                </div>
+                <div class="menu-item">
+                    <img src="D:\OneDrive\Pictures\lobster-blt-sandwich.webp" alt="Dish 3 Image">
+                    <h3>Dish 3</h3>
+                    <p>Description of Dish 3</p>
+                    <span>Price: $21.99</span>
+                </div>
+            </main>
+    </body>
+</html>
